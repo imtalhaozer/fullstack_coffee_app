@@ -1,0 +1,114 @@
+[
+    {
+        "productId": 1,
+        "productName": "Türk Kahvesi",
+        "productTag": "Türk",
+        "productPrice": 25.00,
+        "productDescription": "Lezzetli ve yoğun Türk kahvesi."
+    },
+    {
+        "productId": 2,
+        "productName": "Espresso",
+        "productTag": "İtalyan",
+        "productPrice": 30.00,
+        "productDescription": "Küçük ama güçlü bir espresso."
+    },
+    {
+        "productId": 3,
+        "productName": "Latte",
+        "productTag": "İtalyan",
+        "productPrice": 35.00,
+        "productDescription": "Süt ve espresso karışımı."
+    },
+    {
+        "productId": 4,
+        "productName": "Cappuccino",
+        "productTag": "İtalyan",
+        "productPrice": 32.00,
+        "productDescription": "Köpüklü süt ve espresso karışımı."
+    },
+    {
+        "productId": 5,
+        "productName": "Americano",
+        "productTag": "Amerikan",
+        "productPrice": 28.00,
+        "productDescription": "Su eklenmiş espresso."
+    },
+    {
+        "productId": 6,
+        "productName": "Mocha",
+        "productTag": "İtalyan",
+        "productPrice": 36.00,
+        "productDescription": "Çikolata ve espresso karışımı."
+    },
+    {
+        "productId": 7,
+        "productName": "Macchiato",
+        "productTag": "İtalyan",
+        "productPrice": 29.00,
+        "productDescription": "Espresso üzerine az miktarda süt."
+    },
+    {
+        "productId": 8,
+        "productName": "Affogato",
+        "productTag": "İtalyan",
+        "productPrice": 38.00,
+        "productDescription": "Vanilyalı dondurmanın üzerine espresso."
+    },
+    {
+        "productId": 9,
+        "productName": "Cold Brew",
+        "productTag": "Amerikan",
+        "productPrice": 34.00,
+        "productDescription": "Soğuk demleme yöntemi ile hazırlanmış kahve."
+    },
+    {
+        "productId": 10,
+        "productName": "Ristretto",
+        "productTag": "İtalyan",
+        "productPrice": 31.00,
+        "productDescription": "Küçük miktarda su ile hazırlanmış yoğun espresso."
+    },
+    {
+        "productId": 11,
+        "productName": "Irish Coffee",
+        "productTag": "İrlanda",
+        "productPrice": 40.00,
+        "productDescription": "Kahve, viski ve kremanın karışımı."
+    },
+    {
+        "productId": 12,
+        "productName": "Café au Lait",
+        "productTag": "Fransız",
+        "productPrice": 33.00,
+        "productDescription": "Eşit miktarda kahve ve sıcak süt."
+    },
+    {
+        "productId": 13,
+        "productName": "Café au Lait",
+        "productTag": "Fransız",
+        "productPrice": 33.00,
+        "productDescription": "Eşit miktarda kahve ve sıcak süt."
+    },
+    {
+        "productId": 14,
+        "productName": "Turkish Coffee",
+        "productTag": "Türk",
+        "productPrice": 25.00,
+        "productDescription": "Geleneksel Türk kahvesi, ince çekilmiş kahve ile yapılır."
+    },
+    {
+        "productId": 15,
+        "productName": "Café Cortado",
+        "productTag": "İspanyol",
+        "productPrice": 30.00,
+        "productDescription": "Eşit miktarda espresso ve süt."
+    },
+    {
+        "productId": 16,
+        "productName": "Dalgona Coffee",
+        "productTag": "Kore",
+        "productPrice": 32.00,
+        "productDescription": "Köpük kahve, süt üzerinde servis edilir."
+    }
+]
